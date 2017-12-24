@@ -7,6 +7,6 @@
 
 	&--blue {
 		background: $mainBlue;
-		color: FFF;
+		color: #fff;
 	}
 }
